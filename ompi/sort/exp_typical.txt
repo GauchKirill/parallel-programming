@@ -1,0 +1,296 @@
+Time: 0.000004 s
+Elems: 10
+Num procs: 1
+
+2 2 3 3 3 5 7 8 8 8 
+Time: 0.000008 s
+Elems: 10
+Num procs: 2
+
+2 3 4 4 6 6 7 8 9 9 
+Time: 0.000008 s
+Elems: 10
+Num procs: 3
+
+0 0 2 4 4 4 6 6 6 8 
+Time: 0.000031 s
+Elems: 10
+Num procs: 4
+
+0 2 2 4 4 5 6 6 7 9 
+Time: 0.000035 s
+Elems: 10
+Num procs: 5
+
+0 1 2 3 5 7 8 9 9 9 
+Time: 0.000037 s
+Elems: 10
+Num procs: 6
+
+0 1 1 2 3 6 6 7 7 7 
+Time: 0.000058 s
+Elems: 10
+Num procs: 7
+
+1 1 1 5 6 6 7 7 9 9 
+Time: 0.000041 s
+Elems: 10
+Num procs: 8
+
+0 1 1 2 3 3 3 5 7 9 
+Time: 0.000008 s
+Elems: 100
+Num procs: 1
+
+Time: 0.000013 s
+Elems: 100
+Num procs: 2
+
+Time: 0.000011 s
+Elems: 100
+Num procs: 3
+
+Time: 0.000033 s
+Elems: 100
+Num procs: 4
+
+Time: 0.000041 s
+Elems: 100
+Num procs: 5
+
+Time: 0.000053 s
+Elems: 100
+Num procs: 6
+
+Time: 0.000064 s
+Elems: 100
+Num procs: 7
+
+Time: 0.000066 s
+Elems: 100
+Num procs: 8
+
+Time: 0.000055 s
+Elems: 1024
+Num procs: 1
+
+Time: 0.000057 s
+Elems: 1024
+Num procs: 2
+
+Time: 0.000045 s
+Elems: 1024
+Num procs: 3
+
+Time: 0.000059 s
+Elems: 1024
+Num procs: 4
+
+Time: 0.000071 s
+Elems: 1024
+Num procs: 5
+
+Time: 0.000088 s
+Elems: 1024
+Num procs: 6
+
+Time: 0.000096 s
+Elems: 1024
+Num procs: 7
+
+Time: 0.000110 s
+Elems: 1024
+Num procs: 8
+
+Time: 0.000699 s
+Elems: 10000
+Num procs: 1
+
+Time: 0.000566 s
+Elems: 10000
+Num procs: 2
+
+Time: 0.000367 s
+Elems: 10000
+Num procs: 3
+
+Time: 0.000350 s
+Elems: 10000
+Num procs: 4
+
+Time: 0.000380 s
+Elems: 10000
+Num procs: 5
+
+Time: 0.000456 s
+Elems: 10000
+Num procs: 6
+
+Time: 0.000465 s
+Elems: 10000
+Num procs: 7
+
+Time: 0.000533 s
+Elems: 10000
+Num procs: 8
+
+Time: 0.011625 s
+Elems: 100000
+Num procs: 1
+
+Time: 0.006836 s
+Elems: 100000
+Num procs: 2
+
+Time: 0.003897 s
+Elems: 100000
+Num procs: 3
+
+Time: 0.004256 s
+Elems: 100000
+Num procs: 4
+
+Time: 0.004160 s
+Elems: 100000
+Num procs: 5
+
+Time: 0.005603 s
+Elems: 100000
+Num procs: 6
+
+Time: 0.005791 s
+Elems: 100000
+Num procs: 7
+
+Time: 0.005467 s
+Elems: 100000
+Num procs: 8
+
+Time: 0.096787 s
+Elems: 1000000
+Num procs: 1
+
+Time: 0.071541 s
+Elems: 1000000
+Num procs: 2
+
+Time: 0.045274 s
+Elems: 1000000
+Num procs: 3
+
+Time: 0.045619 s
+Elems: 1000000
+Num procs: 4
+
+Time: 0.050177 s
+Elems: 1000000
+Num procs: 5
+
+Time: 0.057804 s
+Elems: 1000000
+Num procs: 6
+
+Time: 0.057946 s
+Elems: 1000000
+Num procs: 7
+
+Time: 0.059059 s
+Elems: 1000000
+Num procs: 8
+
+Time: 1.125951 s
+Elems: 10000000
+Num procs: 1
+
+Time: 0.815557 s
+Elems: 10000000
+Num procs: 2
+
+Time: 0.515696 s
+Elems: 10000000
+Num procs: 3
+
+Time: 0.504411 s
+Elems: 10000000
+Num procs: 4
+
+Time: 0.541640 s
+Elems: 10000000
+Num procs: 5
+
+Time: 0.508949 s
+Elems: 10000000
+Num procs: 6
+
+Time: 0.621274 s
+Elems: 10000000
+Num procs: 7
+
+Time: 0.615317 s
+Elems: 10000000
+Num procs: 8
+
+Time: 12.744563 s
+Elems: 100000000
+Num procs: 1
+
+Time: 9.068871 s
+Elems: 100000000
+Num procs: 2
+
+Time: 5.742094 s
+Elems: 100000000
+Num procs: 3
+
+Time: 5.597273 s
+Elems: 100000000
+Num procs: 4
+
+Time: 5.919378 s
+Elems: 100000000
+Num procs: 5
+
+Time: 6.633250 s
+Elems: 100000000
+Num procs: 6
+
+Time: 6.595504 s
+Elems: 100000000
+Num procs: 7
+
+Time: 6.876734 s
+Elems: 100000000
+Num procs: 8
+
+Time: 142.893827 s
+Elems: 1000000000
+Num procs: 1
+
+Time: 104.815004 s
+Elems: 1000000000
+Num procs: 2
+
+Time: 67.833666 s
+Elems: 1000000000
+Num procs: 3
+
+Time: 72.314941 s
+Elems: 1000000000
+Num procs: 4
+
+Time: 66.912424 s
+Elems: 1000000000
+Num procs: 5
+
+Time: 75.956620 s
+Elems: 1000000000
+Num procs: 6
+
+Time: 70.625056 s
+Elems: 1000000000
+Num procs: 7
+
+Time: 79.407159 s
+Elems: 1000000000
+Num procs: 8
+

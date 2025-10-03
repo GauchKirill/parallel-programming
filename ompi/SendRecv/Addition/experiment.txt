@@ -1,0 +1,50 @@
+Отправитель: MPI_Send: time - 0.000062 с; size - 256 байт
+Получатель: MPI_Recv: size - 256 байт
+
+Отправитель: MPI_Send: time - 2.000132 с; size - 257 байт
+Получатель: MPI_Recv: size - 257 байт
+
+Отправитель: MPI_Send: time - 0.000036 с; size - 5 байт
+Получатель: MPI_Recv: size - 5 байт
+
+Отправитель: MPI_Send: time - 2.000029 с; size - 102400 байт
+Получатель: MPI_Recv: size - 102400 байт
+
+
+
+Отправитель: MPI_Ssend: time - 2.000066 с; size - 5 байт
+Получатель: MPI_Recv: size - 5 байт
+
+Отправитель: MPI_Ssend: time - 2.000064 с; size - 256 байт
+Получатель: MPI_Recv: size - 256 байт
+
+Отправитель: MPI_Ssend: time - 1.999987 с; size - 102400 байт
+Получатель: MPI_Recv: size - 102400 байт
+
+
+
+Отправитель: MPI_Rsend: time - 0.000039 с; size - 5 байт
+Получатель: MPI_Recv: size - 5 байт
+
+Отправитель: MPI_Rsend: time - 0.000038 с; size - 256 байт
+Получатель: MPI_Recv: size - 256 байт
+
+Получатель: MPI_Recv: size - 257 байт
+Отправитель: MPI_Rsend: time - 2.000027 с; size - 257 байт
+
+Отправитель: MPI_Rsend: time - 2.000341 с; size - 102400 байт
+Получатель: MPI_Recv: size - 102400 байт
+
+
+
+Отправитель: MPI_Bsend: time - 1.301087 с; size - 2147483519 байт
+Получатель: MPI_Recv: size - 2147483519 байт
+
+Отправитель: MPI_Bsend: time - 0.000039 с; size - 5 байт
+Получатель: MPI_Recv: size - 5 байт
+
+Отправитель: MPI_Bsend: time - 0.000054 с; size - 500 байт
+Получатель: MPI_Recv: size - 500 байт
+
+Отправитель: MPI_Bsend: time - 0.000497 с; size - 102400 байт
+Получатель: MPI_Recv: size - 102400 байт
